@@ -1,0 +1,12 @@
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\bin\Debug\net5.0\ClassLib.deps.json
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\bin\Debug\net5.0\ClassLib.dll
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\bin\Debug\net5.0\ref\ClassLib.dll
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\bin\Debug\net5.0\ClassLib.pdb
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.AssemblyInfoInputs.cache
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.AssemblyInfo.cs
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.csproj.CoreCompileInputs.cache
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.dll
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ref\ClassLib.dll
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.pdb
+D:\ШАГ\Уроки\Azure\Meeting_2\LR_HW_Semenov_2210\ClassLib\obj\Debug\net5.0\ClassLib.csproj.AssemblyReference.cache

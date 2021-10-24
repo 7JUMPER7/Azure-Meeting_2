@@ -1,0 +1,24 @@
+﻿@using ClassLib;
+@model Lot
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    @Html.ActionLink("Добавить лот", "Add")
+    @{ if (Model != null)
+        {
+            <h1>Лот:</h1>
+            <div class="lot">
+                <span><strong>Название: </strong>@Model.Title</span>
+                <span><strong>Цена: </strong>@Model.Price</span>
+                <span><strong>Продавец: </strong>@Model.Seller</span>
+                @Html.ActionLink("Купить", "Buy", "Home", new { messageId = Model.MessageId, popReceipt = Model.PopReceipt })
+            </div>
+        }
+        else
+        {
+            <h1>На аукционе нет лотов</h1>
+        }}
+</div>
